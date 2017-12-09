@@ -11,7 +11,6 @@ import org.testng.annotations.Test;
 
 public class TestChromeOnGrid {
 
-	@SuppressWarnings("unused")
 	@Test
 	public void test1() throws MalformedURLException, InterruptedException {
 		
